@@ -10,7 +10,7 @@
         response.sendRedirect("예제2-7.jsp");
     }
     else {
-        request.getRequestDispatcher("index.jsp?loginErr=1").forward(request, response);
+        request.getRequestDispatcher("예제2-5.jsp?loginErr=1").forward(request, response);
     }
 %>>
 </body>
