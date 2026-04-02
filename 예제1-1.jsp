@@ -18,6 +18,3 @@
 %>
 </body>
 </html>
-
-<img width="1025" height="455" alt="image" src="https://github.com/user-attachments/assets/229599f9-eab9-4fbe-8d19-cc18c3809717" />
-
